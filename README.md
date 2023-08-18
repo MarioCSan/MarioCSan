@@ -16,8 +16,6 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariocanalessanchez/) 
 
-[![](https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6)](https://visitcount.itsvg.in)
-
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -63,7 +61,7 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
+[![](https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
