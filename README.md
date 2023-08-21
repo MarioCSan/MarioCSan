@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Soy un apasionado desarrollador con experiencia en una amplia gama de tecnologías. Mi enfoque principal se centra en el desarrollo front-end, utilizando HTML, CSS, JavaScript, React y Angular para crear interfaces de usuario interactivas y atractivas. Con estas herramientas, puedo transformar diseños en experiencias web excepcionales.
 
 Además, cuento con conocimientos en el desarrollo backend utilizando el framework .NET. Esto me permite construir aplicaciones sólidas y escalables, gestionar bases de datos y garantizar una comunicación fluida entre el front-end y el back-end.
@@ -13,7 +13,7 @@ Como profesional, siempre tengo iniciativa y me gusta mantenerme actualizado con
 
 Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyectos. Si tienes alguna otra pregunta o solicitud, no dudes en decírmelo. Y si quieres conversar sobre la Fórmula 1 o compartir tus experiencias en este apasionante deporte, estaré encantado de hacerlo
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariocanalessanchez/) 
 
 
@@ -50,15 +50,15 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MariocSan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositorios con más contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=MariocSan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Citas aleatoreas de desarrolladores:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Memes aleatoreos:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6)](https://visitcount.itsvg.in)
