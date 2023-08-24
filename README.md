@@ -55,12 +55,6 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 
 
 
-### ✍️ Citas aleatoreas de desarrolladores:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Memes aleatoreos:
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 [![](https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
