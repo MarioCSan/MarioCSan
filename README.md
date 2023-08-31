@@ -3,11 +3,8 @@ Soy un apasionado desarrollador con experiencia en una amplia gama de tecnologí
 
 Además, cuento con conocimientos en el desarrollo backend utilizando el framework .NET. Esto me permite construir aplicaciones sólidas y escalables, gestionar bases de datos y garantizar una comunicación fluida entre el front-end y el back-end.
 
-<!--También tengo certificaciones en AWS y Azure, lo que me permite aprovechar al máximo las capacidades de la nube. Puedo diseñar, implementar y administrar soluciones en la nube, optimizando la escalabilidad, seguridad y rendimiento de las aplicaciones.-->
 
 Además de estos conocimientos, también estoy familiarizado con herramientas como Insomnia y Postman, que utilizo para realizar pruebas y manejar APIs. Estas herramientas me permiten asegurarme de que las aplicaciones se integren sin problemas con servicios externos y funcionen correctamente.
-<!--
-Por último, tengo experiencia en Xamarin, un framework para el desarrollo de aplicaciones móviles multiplataforma. Con Xamarin, puedo crear aplicaciones nativas para iOS y Android de manera eficiente, compartiendo gran parte del código entre las plataformas. -->
 
 Como profesional, siempre tengo iniciativa y me gusta mantenerme actualizado con las últimas tecnologías. Siempre estoy explorando nuevas herramientas y frameworks para asegurarme de ofrecer soluciones innovadoras y de calidad.
 
