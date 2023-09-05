@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Mario+Canales+;Desarrollador+FullStack+)](https://git.io/typing-svg)
 # 💫 Sobre mí:
 Soy un apasionado desarrollador con experiencia en una amplia gama de tecnologías. Mi enfoque principal se centra en el desarrollo front-end, utilizando HTML, CSS, JavaScript, React y Angular para crear interfaces de usuario interactivas y atractivas. Con estas herramientas, puedo transformar diseños en experiencias web excepcionales.
 
