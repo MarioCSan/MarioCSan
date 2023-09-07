@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=48A3C6&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Mario+Canales;Full+Stack+developer;React+%7C+Angular+%7C+.NET)](https://mariocanales.es)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=5DD2FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Mario+Canales;Desarrollador+Fullstack+;React+%7C+Angular+%7C+.NET)](https://mariocanales.es)
 # 💫 Sobre mí:
 Soy un apasionado desarrollador con experiencia en una amplia gama de tecnologías. Mi enfoque principal se centra en el desarrollo front-end, utilizando HTML, CSS, JavaScript, React y Angular para crear interfaces de usuario interactivas y atractivas. Con estas herramientas, puedo transformar diseños en experiencias web excepcionales.
 
