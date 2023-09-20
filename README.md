@@ -2,7 +2,7 @@
 # 💫 Sobre mí:
 Soy un apasionado desarrollador con experiencia en una amplia gama de tecnologías. Mi enfoque principal se centra en el desarrollo front-end, utilizando HTML, CSS, JavaScript, React y Angular para crear interfaces de usuario interactivas y atractivas. Con estas herramientas, puedo transformar diseños en experiencias web excepcionales.
 
-Además, cuento con conocimientos en el desarrollo backend utilizando el framework .NET. Esto me permite construir aplicaciones sólidas y escalables, gestionar bases de datos y garantizar una comunicación fluida entre el front-end y el back-end.
+Cuento también con conocimientos en el desarrollo backend utilizando el framework .NET. Esto me permite construir aplicaciones sólidas y escalables, gestionar bases de datos y garantizar una comunicación fluida entre el front-end y el back-end.
 
 Además de estos conocimientos, también estoy familiarizado con herramientas como Insomnia y Postman, que utilizo para realizar pruebas y manejar APIs. Estas herramientas me permiten asegurarme de que las aplicaciones se integren sin problemas con servicios externos y funcionen correctamente.
 
