@@ -6,8 +6,6 @@ Cuento también con conocimientos en el desarrollo backend utilizando el framewo
 
 Además de estos conocimientos, también estoy familiarizado con herramientas como Insomnia y Postman, que utilizo para realizar pruebas y manejar APIs. Estas herramientas me permiten asegurarme de que las aplicaciones se integren sin problemas con servicios externos y funcionen correctamente.
 
-Como profesional, siempre tengo iniciativa y me gusta mantenerme actualizado con las últimas tecnologías. Siempre estoy explorando nuevas herramientas y frameworks para asegurarme de ofrecer soluciones innovadoras y de calidad.
-
 Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyectos. Si tienes alguna otra pregunta o solicitud, no dudes en decírmelo. Y si quieres conversar sobre la Fórmula 1 o compartir tus experiencias en este apasionante deporte, estaré encantado de hacerlo
 
 ## 🌐 Redes Sociales:
