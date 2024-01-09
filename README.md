@@ -68,7 +68,8 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
   <a href="https://www.linkedin.com/in/mariocanalessanchez/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariocanalessanchez/" alt="mariocsan_linkedin"/></a>
 </p>
 <br>
-____
+
+-----
 
 <p align="center">
   <img align="center" src="https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6"/>
