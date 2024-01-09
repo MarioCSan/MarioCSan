@@ -43,16 +43,15 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-
 <!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) --><br/>
 <br>
 <details>
 <summary><h3><b>📈 Stats</b></h3></summary>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MariocSan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariocSan&theme=tokyonight&hide_border=false" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MariocSan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
