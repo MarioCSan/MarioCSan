@@ -72,7 +72,7 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 -----
 
 <p align="center">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6"/>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6" target="blank/>
 </p>
 
 
