@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://github.com/alexvidalcor">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=30&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=Mario+Canales;Desarrollador+Fullstack;React+%7C+Angular+%7C+.NET" alt="Typing SVG" />
     <br/>
       <img src="https://github-readme-stats.vercel.app/api?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
