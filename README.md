@@ -43,8 +43,6 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) --><br/>
-<details>
-<summary><h3><b>📈 Stats</b></h3></summary>
 
 # 📊 GitHub Stats
 
@@ -57,7 +55,6 @@ Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyecto
 ### 🔝 Repositorios con más contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=MariocSan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-</details>
 
 <br>
 
