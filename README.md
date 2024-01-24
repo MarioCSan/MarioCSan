@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=30&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=Mario+Canales;Desarrollador+Fullstack;+.NET%7C+React+%7C+Angular" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=30&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=Mario+Canales;Desarrollador+Fullstack;+.NET+%7C+React+%7C+Angular" alt="Typing SVG" />
     <br/>
       <img src="https://github-readme-stats.vercel.app/api?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 </p>
