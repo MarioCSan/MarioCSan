@@ -39,9 +39,9 @@ I'm excited to put my skills and passions to work for your projects. If you have
 </p>
 ------
 
-[Ver en Español](#español) | [View in English](#english)
+[Ver en Español](#spanish) | [View in English](#english)
 
-<a name="español"></a>
+<a name="spanish"></a>
 
 <!-- Contenido en Español -->
 
