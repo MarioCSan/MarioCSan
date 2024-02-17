@@ -6,11 +6,11 @@
 <br>
 
 ### 💫 Sobre mí:
-Soy un apasionado desarrollador con experiencia en una amplia gama de tecnologías. Mi enfoque principal se centra en el desarrollo front-end, utilizando HTML, CSS, JavaScript, React y Angular para crear interfaces de usuario interactivas y atractivas. Con estas herramientas, puedo transformar diseños en experiencias web excepcionales.
+Soy un desarrollador con experiencia en una amplia gama de tecnologías. Mi enfoque principal se centra en el desarrollo backend utilizando el framework .NET. Esto me permite construir aplicaciones sólidas y escalables, gestionar bases de datos y garantizar una comunicación fluida entre el front-end y el back-end.
 
-Cuento también con conocimientos en el desarrollo backend utilizando el framework .NET. Esto me permite construir aplicaciones sólidas y escalables, gestionar bases de datos y garantizar una comunicación fluida entre el front-end y el back-end.
+Cuento también con conocimientos en el desarrollo front-end, utilizando HTML, CSS, JavaScript, React y Angular para crear interfaces de usuario interactivas y atractivas. Con estas herramientas, puedo transformar diseños en experiencias web excepcionales.
 
-Además de estos conocimientos, también estoy familiarizado con herramientas como Insomnia y Postman, que utilizo para realizar pruebas y manejar APIs. Estas herramientas me permiten asegurarme de que las aplicaciones se integren sin problemas con servicios externos y funcionen correctamente.
+Además de estos conocimientos, también estoy familiarizado con herramientas como Insomnia y Postman, que utilizo para realizar pruebas y manejar APIs. Estas herramientas me permiten asegurarme de que las aplicaciones se integren sin problemas con servicios externos y funcionen correctamente, del uso de contenedores para encapsular mis aplicaciones y evitar problemas de dependencias y por su versatilidad.
 
 Estoy emocionado de poner mis habilidades y pasiones al servicio de tus proyectos. Si tienes alguna otra pregunta o solicitud, no dudes en decírmelo. Y si quieres conversar sobre la Fórmula 1 o compartir tus experiencias en este apasionante deporte, estaré encantado de hacerlo
 
