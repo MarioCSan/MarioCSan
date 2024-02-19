@@ -6,7 +6,7 @@
 <br>
 
 <details>
-  <summary>EN <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/3f8f179a-b722-43ee-80f9-268b72693888" width="2%"/>
+  <summary>EN🇬🇧
 </summary>
 ### 💫 About me:
 
@@ -21,7 +21,7 @@ Let's connect and explore the realm of technological possibilities!
 </details>
 
 <details>
-  <summary>ES <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/e0ec4111-06ac-4c02-991b-291933faa474" width="2%"/>
+  <summary>ES🇪🇸
 </summary>
 
 ### 💫 Sobre mí:
