@@ -8,6 +8,7 @@
 <details>
   <summary>EN <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/3f8f179a-b722-43ee-80f9-268b72693888" width="2%"/>
 </summary>
+     
 ### 💫 About me:
 
 ✨ .NET Developer with experience turning ideas into exceptional experiences. Specialized in technologies such as Azure, React, Angular, and databases like SQL Server, Postgres, and MongoDB.
