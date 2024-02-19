@@ -1,18 +1,42 @@
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=30&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=Mario+Canales;Desarrollador+Fullstack;+.NET+%7C+React+%7C+Angular+%7C+Azure" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=30&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=Mario+Canales;Fullstack+developer;+.NET+%7C+React+%7C+Angular+%7C+Azure" alt="Typing SVG" />
     <br/>
       <img src="https://github-readme-stats.vercel.app/api?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 </p>
 <br>
 
+<details>
+  <summary>EN <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/3f8f179a-b722-43ee-80f9-268b72693888" width="2%"/>
+</summary>
+### 💫 About me:
+
+✨ .NET Developer with experience turning ideas into exceptional experiences. Specialized in technologies such as Azure, React, Angular, and databases like SQL Server, Postgres, and MongoDB.
+
+🚀 Passionate about crafting innovative solutions that blend technology and user experience. As Elon Musk says, "When something is important enough, you do it even if the odds are not in your favor."
+
+💡 My focus revolves around technical excellence and creativity to deliver products that not only meet needs but also inspire.
+
+Let's connect and explore the realm of technological possibilities!
+
+</details>
+
+<details>
+  <summary>ES <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/e0ec4111-06ac-4c02-991b-291933faa474" width="2%"/>
+</summary>
+
 ### 💫 Sobre mí:
-Desarrollador .NET con experiencia en transformar ideas en experiencias excepcionales. Especializado en tecnologías como Azure, React, Angular y bases de datos SQL Server, Postgres y MongoDB.
+✨ Desarrollador .NET con experiencia en transformar ideas en experiencias excepcionales. Especializado en tecnologías como Azure, React, Angular y bases de datos SQL Server, Postgres y MongoDB.
 
-Apasionado por la creación de soluciones innovadoras que fusionan tecnología y experiencia del usuario. Creo firmemente, como dice Elon Musk, "cuando algo es lo suficientemente importante, lo haces incluso si las probabilidades no están a tu favor".
+🚀 Apasionado por la creación de soluciones innovadoras que fusionan tecnología y experiencia del usuario. Como dice Elon Musk, "cuando algo es lo suficientemente importante, lo haces incluso si las probabilidades no están a tu favor".
 
-Mi enfoque se centra en la excelencia técnica y la creatividad para ofrecer productos que no solo satisfacen las necesidades, sino que también inspiran.
+💡 Mi enfoque se centra en la excelencia técnica y la creatividad para ofrecer productos que no solo satisfacen las necesidades, sino que también inspiran.
 
 ¡Conéctemos para explorar el mundo de las posibilidades tecnológicas!
+
+</details>
+
+
+
 
 ### 💻 Tech Stack:
 
@@ -40,13 +64,13 @@ Mi enfoque se centra en la excelencia técnica y la creatividad para ofrecer pro
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <br>
 
-### 💻 Aprendiendo:
+### 💻 Learning / Aprendiendo:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 <!--![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) -->
 
-### Entornos
+### Enviroments
 
 <p align="center">
      <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows SVG" />
@@ -65,13 +89,10 @@ Mi enfoque se centra en la excelencia técnica y la creatividad para ofrecer pro
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MariocSan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Repositorios con más contribuciones
-![](https://github-contributor-stats.vercel.app/api?username=MariocSan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 
 <br>
 
-## 🌐 Donde encontrarme:
+## 🌐 Whre to find / me Donde encontrarme:
 <p align="center">
   <a href="https://www.linkedin.com/in/mariocanalessanchez/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariocanalessanchez/" alt="mariocsan_linkedin"/></a>
 </p>
