@@ -6,7 +6,7 @@
 <br>
 
 <details>
-  <summary>EN🇬🇧
+  <summary>EN 🇬🇧
 </summary>
 ### 💫 About me:
 
@@ -21,7 +21,7 @@ Let's connect and explore the realm of technological possibilities!
 </details>
 
 <details>
-  <summary>ES🇪🇸
+  <summary>ES 🇪🇸
 </summary>
 
 ### 💫 Sobre mí:
