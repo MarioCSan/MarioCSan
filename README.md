@@ -91,7 +91,7 @@ Let's connect and explore the realm of technological possibilities!
 
 <br>
 
-## 🌐 Whre to find / me Donde encontrarme:
+## 🌐 Where to find me / Donde encontrarme:
 <p align="center">
   <a href="https://www.linkedin.com/in/mariocanalessanchez/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariocanalessanchez/" alt="mariocsan_linkedin"/></a>
 </p>
