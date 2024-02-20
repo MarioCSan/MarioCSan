@@ -8,14 +8,16 @@
 <details align="center">
   <summary>EN <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/3f8f179a-b722-43ee-80f9-268b72693888" width="2%"/>
 </summary>
+
+### 💡 You can also watch it through npx! Run `npx mariocsan` on your terminal to see it.
      
-### 💫 About me:
+## 💫 About me:
 
 ✨ .NET Developer with experience turning ideas into exceptional experiences. Specialized in technologies such as Azure, React, Angular, and databases like SQL Server, Postgres, and MongoDB.
 
 🚀 Passionate about crafting innovative solutions that blend technology and user experience. As Elon Musk says, "When something is important enough, you do it even if the odds are not in your favor."
 
-💡 My focus revolves around technical excellence and creativity to deliver products that not only meet needs but also inspire.
+🚄 My focus revolves around technical excellence and creativity to deliver products that not only meet needs but also inspire.
 
 Let's connect and explore the realm of technological possibilities!
 
@@ -25,7 +27,7 @@ Let's connect and explore the realm of technological possibilities!
   <summary>ES <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/e0ec4111-06ac-4c02-991b-291933faa474" width="2%"/>
 </summary>
 
-### 💫 Sobre mí:
+## 💫 Sobre mí:
 ✨ Desarrollador .NET con experiencia en transformar ideas en experiencias excepcionales. Especializado en tecnologías como Azure, React, Angular y bases de datos SQL Server, Postgres y MongoDB.
 
 🚀 Apasionado por la creación de soluciones innovadoras que fusionan tecnología y experiencia del usuario. Como dice Elon Musk, "cuando algo es lo suficientemente importante, lo haces incluso si las probabilidades no están a tu favor".
