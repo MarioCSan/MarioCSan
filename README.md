@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<details>
+<details align="center">
   <summary>EN <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/3f8f179a-b722-43ee-80f9-268b72693888" width="2%"/>
 </summary>
      
@@ -21,7 +21,7 @@ Let's connect and explore the realm of technological possibilities!
 
 </details>
 
-<details>
+<details align="center">
   <summary>ES <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/e0ec4111-06ac-4c02-991b-291933faa474" width="2%"/>
 </summary>
 
@@ -35,10 +35,9 @@ Let's connect and explore the realm of technological possibilities!
 ¡Conéctemos para explorar el mundo de las posibilidades tecnológicas!
 
 </details>
-
-<details>
+<details align="center">
   <summary>
-       <h2>💻 Tech Stack:</h2>
+       <h2> 💻 Tech Stack:</h2>
 </summary>
      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/> 
@@ -61,16 +60,20 @@ Let's connect and explore the realm of technological possibilities!
      <br>
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
-     <br>
 </details>
 
-### 💻 Learning / Aprendiendo:
+<details align="center">
+   <summary>
+        <h2>👨‍🎓🖥️ Learning / Aprendiendo:</h2>
+   </summary>
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 <!--![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) -->
+</details>
 
-### Enviroments
+<h2 align="center"> Enviroments </h2>
 
 <p align="center">
      <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows SVG" />
@@ -81,18 +84,21 @@ Let's connect and explore the realm of technological possibilities!
 
 <!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) --><br/>
 
-## 📊 GitHub Stats
-
+<h2 align="center"> 📊 GitHub Stats </h2>
+<p align="center">  
   <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariocSan&theme=tokyonight&hide_border=false" />
+     <br>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MariocSan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center"> 🏆 GitHub Trophies </h2>
 
-
+<p align="center">  
+<img src="https://github-profile-trophy.vercel.app/?username=MariocSan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="100%"/>
+</p>
 <br>
 
-## 🌐 Where to find me / Donde encontrarme:
+<h2 align="center"> 🌐 Where to find me / Donde encontrarme: </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mariocanalessanchez/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariocanalessanchez/" alt="mariocsan_linkedin"/></a>
 </p>
