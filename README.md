@@ -89,12 +89,14 @@ Let's connect and explore the realm of technological possibilities!
   <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariocSan&theme=tokyonight&hide_border=false" />
      <br>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://stats.dooboo.io/api/github-stats?login=marioCSan"/>
 </p>
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
 <p align="center">  
 <img src="https://github-profile-trophy.vercel.app/?username=MariocSan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="100%"/>
+  <img src="https://stats.dooboo.io/api/github-trophies?login=marioCSan"/>
 </p>
 <br>
 
