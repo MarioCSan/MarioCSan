@@ -10,6 +10,7 @@
 </summary>
 
 ### 💡 You can also watch it through npx! Run `npx mariocsan` on your terminal to see it.
+***note:*** You must have node installed
      
 ## 💫 About me:
 
