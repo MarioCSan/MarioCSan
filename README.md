@@ -97,7 +97,6 @@ Let's connect and explore the realm of technological possibilities!
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
 <p align="center">  
-<img src="https://github-profile-trophy.vercel.app/?username=MariocSan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="100%"/>
   <img src="https://stats.dooboo.io/api/github-trophies?login=marioCSan"/>
 </p>
 <br>
