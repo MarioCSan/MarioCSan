@@ -79,7 +79,7 @@ Let's connect and explore the realm of technological possibilities!
 <h2 align="center"> Enviroments </h2>
 
 <p align="center">
-     <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows SVG" />
+     <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows SVG" />
     <br/>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
