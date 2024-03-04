@@ -40,7 +40,7 @@ Let's connect and explore the realm of technological possibilities!
 </details>
 <details align="center">
   <summary>
-       <h2> 💻 Tech Stack:</h2>
+       💻Tech Stack:
 </summary>
      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/> 
@@ -67,7 +67,7 @@ Let's connect and explore the realm of technological possibilities!
 
 <details align="center">
    <summary>
-        <h2>👨‍🎓🖥️ Learning / Aprendiendo:</h2>
+        👨‍🎓🖥️ Learning / Aprendiendo:
    </summary>
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
