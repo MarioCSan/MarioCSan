@@ -95,7 +95,6 @@ Let's connect and explore the realm of technological possibilities!
 </p>
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
-
 <p align="center">  
   <img src="https://stats.dooboo.io/api/github-trophies?login=marioCSan"/>
 </p>
