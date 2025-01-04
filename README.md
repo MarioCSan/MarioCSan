@@ -84,10 +84,10 @@ Let's connect and explore the realm of technological possibilities!
 
 <p align="center">
      <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows SVG" />
-     <img src="https://img.shields.io/badge/macOS_Sonoma_-%23000000?style=for-the-badge&logoColor=white" alt="macos" />
-     
-    <br/>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+     <img src="https://img.shields.io/badge/macOS_Sonoma_-%23000000?style=for-the-badge&color=grey&logoColor=white" alt="macos" />
+     <br />
+     <br />
+     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-top: 5px"/>
 </p>
 
 
@@ -96,7 +96,7 @@ Let's connect and explore the realm of technological possibilities!
 <h2 align="center"> 📊 GitHub Stats </h2>
 <p align="center">  
   <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariocSan&theme=tokyonight&hide_border=false" />
-     <br>
+     <br/>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
