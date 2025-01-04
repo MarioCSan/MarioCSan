@@ -88,6 +88,8 @@ Let's connect and explore the realm of technological possibilities!
      <br />
      <br />
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-top: 5px"/>
+     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS Code" style="margin-top: 5px"/>
+
 </p>
 
 
