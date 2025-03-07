@@ -1,126 +1,83 @@
-<p align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=30&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=Mario+Canales;Fullstack+developer;+.NET+%7C+Azure+%7C+React" alt="Typing SVG" />
-    <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-</p>
-<br>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<details align="center">
-  <summary>EN <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/3f8f179a-b722-43ee-80f9-268b72693888" width="2%"/>
-</summary>
+###
 
-### 💡 You can also watch it through npx! Run `npx mariocsan` on your terminal to see it.
-***note:*** You must have node installed
-     
-## 💫 About me:
+<p align="left">I am a developer specialising in .NET Core, with experience creating web solutions and REST APIs for dynamic industries such as travel and financial services. My skills also include SQL Server, JavaScript and React, allowing me to offer a complete approach to development, from backend to dynamic and functional interfaces.</p>
 
-✨ .NET Developer with experience turning ideas into exceptional experiences. Specialized in technologies such as Azure, React, Angular, and databases like SQL Server, Postgres, and MongoDB.
+###
 
-🚀 Passionate about crafting innovative solutions that blend technology and user experience. As Elon Musk says, "When something is important enough, you do it even if the odds are not in your favor."
+<h2 align="center">About me</h2>
 
-🚄 My focus revolves around technical excellence and creativity to deliver products that not only meet needs but also inspire.
+###
 
-Let's connect and explore the realm of technological possibilities!
+<p align="left">✨ .NET Developer with experience turning ideas into exceptional experiences. Specialized in technologies such as Azure, React, Angular, and databases like SQL Server, Postgres, and MongoDB.<br><br>🚀 Passionate about crafting innovative solutions that blend technology and user experience. As Elon Musk says, "When something is important enough, you do it even if the odds are not in your favor."<br><br>🚄 My focus revolves around technical excellence and creativity to deliver products that not only meet needs but also inspire.<br><br>🏫 Learning more about C# and dotnet platform, python and C</p>
 
-</details>
+###
 
-<details align="center">
-  <summary>ES <img src="https://github.com/MarioCSan/MarioCSan/assets/40211718/e0ec4111-06ac-4c02-991b-291933faa474" width="2%"/>
-</summary>
+<br clear="both">
 
-## 💫 Sobre mí:
-✨ Desarrollador .NET con experiencia en transformar ideas en experiencias excepcionales. Especializado en tecnologías como Azure, React, Angular y bases de datos SQL Server, Postgres y MongoDB.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariocsan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariocsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <!-- <img src="https://github-profile-trophy.vercel.app?username=mariocsan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+</div>
 
-🚀 Apasionado por la creación de soluciones innovadoras que fusionan tecnología y experiencia del usuario. Como dice Elon Musk, "cuando algo es lo suficientemente importante, lo haces incluso si las probabilidades no están a tu favor".
+###
 
-💡 Mi enfoque se centra en la excelencia técnica y la creatividad para ofrecer productos que no solo satisfacen las necesidades, sino que también inspiran.
+<h2 align="center">I code with</h2>
 
-¡Conéctemos para explorar el mundo de las posibilidades tecnológicas!
+###
 
-</details>
-<details align="center">
-  <summary>
-       💻Tech Stack:
-</summary>
-     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/> 
-     <br>
-     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
-     <br>
-     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
-     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/> 
-     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/> 
-     <br>
-     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
-     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/> 
-     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-     <br>
-     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
-</details>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+</div>
 
-<details align="center">
-   <summary>
-        👨‍🎓🖥️ Learning / Aprendiendo:
-   </summary>
+###
 
-<!--![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) -->
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<h2 align="center"> How to reach me </h2>
 
-<!--![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) -->
-</details>
+###
 
-<h2 align="center"> Enviroments </h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mariocsan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p align="center">
-     <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows SVG" />
-     <img src="https://img.shields.io/badge/macOS_Sonoma_-%23000000?style=for-the-badge&color=grey&logoColor=white" alt="macos" />
-     <br />
-     <br />
-     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-top: 5px"/>
-     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS Code" style="margin-top: 5px"/>
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mariocsan/count.svg?"  />
+</div>
 
-</p>
+###
 
-
-<!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) --><br/>
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-<p align="center">  
-  <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariocSan&theme=tokyonight&hide_border=false" />
-     <br/>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariocSan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
-<h2 align="center"> 🏆 GitHub Trophies </h2>
-<p align="center">  
-  <img src="https://stats.dooboo.io/api/github-trophies?login=marioCSan"/>
-</p>
-<br>
-
-<h2 align="center"> 🌐 Where to find me: / Dónde encontrarme: </h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariocanalessanchez/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariocanalessanchez/" alt="mariocsan_linkedin"/></a>
-</p>
-<br>
-
------
-
-<p align="center">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6" target="blank/>
-</p>
-------
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
-  [![](https://visitcount.itsvg.in/api?id=MariocSan&icon=7&color=6)](https://visitcount.itsvg.in)
-  
