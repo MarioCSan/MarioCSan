@@ -2,7 +2,7 @@
 
 <p align="center">
   .NET Developer specialized in building scalable web applications and REST APIs.<br/>
-  Experienced in cloud-based solutions using Docker and Microsoft Azure.
+  Experienced in cloud-based solutions Microsoft Azure.
 </p>
 
 ---
