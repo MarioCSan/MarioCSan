@@ -11,7 +11,7 @@
 
 <p align="center">
   I am a .NET developer with experience delivering web solutions and REST APIs<br/>
-  for dynamic industries such as travel and financial services.<br/><br/>
+  for dynamic industries such as travel, financial services or education.<br/><br/>
   My background includes backend development with .NET Core, database-driven systems,<br/>
   and modern frontend technologies, allowing me to build complete and maintainable solutions.
 </p>
