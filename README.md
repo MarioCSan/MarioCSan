@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Mario</h1>
 
 <p align="center">
-  .NET Developer specialized in building scalable web applications and REST APIs.<br/>
-  Experienced in cloud-based solutions Microsoft Azure.
+  .NET Developer specialized in building scalable web applications and RESTfull APIs.<br/>
+  Experienced in cloud-based solutions with Microsoft Azure.
 </p>
 
 ---
@@ -14,6 +14,7 @@
   for dynamic industries such as travel, financial services or education.<br/><br/>
   My background includes backend development with .NET Core, database-driven systems,<br/>
   and modern frontend technologies, allowing me to build complete and maintainable solutions.
+  Also, create complex fluxes with Azure DevOps.
 </p>
 
 ---
