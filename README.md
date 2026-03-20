@@ -27,14 +27,6 @@
 
 ---
 
-<h3 align="center">🛠️ OS</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,mint,windows&theme=dark" />
-</p>
-
----
-
 <h3 align="center">🧠 How I Work</h3>
 
 <p align="center">
