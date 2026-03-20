@@ -27,10 +27,10 @@
 
 ---
 
-<h3 align="center">🛠️ Enviroments</h3>
+<h3 align="center">🛠️ OS</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,azure,mint,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=apple,mint,windows&theme=dark" />
 </p>
 
 ---
