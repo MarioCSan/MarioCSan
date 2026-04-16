@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <br /> I'm Mario</h1>
 
 <p align="center">
-  .NET Developer specialized in building scalable web applications and RESTfull APIs.<br/>
+  A .NET Developer specialized in building scalable web applications and RESTfull APIs.<br/>
   Experienced in cloud-based solutions with Microsoft Azure.
 </p>
 
