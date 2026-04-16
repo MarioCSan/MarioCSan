@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mario</h1>
+<h1 align="center">Hello there! <br /> I'm Mario</h1>
 
 <p align="center">
   .NET Developer specialized in building scalable web applications and RESTfull APIs.<br/>
