@@ -22,7 +22,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,docker,azure,postgres,git,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,react,docker,azure,postgres,git&theme=dark" />
 </p>
 
 ---
